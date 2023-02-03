@@ -1,0 +1,7 @@
+.terraform.lock.hcl
+new.pem
+terraform.tfstate.backup
+terraform.tfstate
+network/tf-key-pair.pem
+.terraform
+all-ips.txt
